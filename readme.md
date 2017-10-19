@@ -10,3 +10,9 @@ TODO
   - [create-inferno-app](https://github.com/infernojs/create-inferno-app)
   - [BlazeCSS](https://github.com/BlazeCSS/Blaze)
   - [animejs](https://github.com/juliangarnier/anime)
+  - [Highland](https://github.com/caolan/highland)
+  - [Napa.js](https://github.com/Microsoft/napajs)
+
+- other scala solutions
+  - [lagomframework](https://www.lagomframework.com/)
+  - [monix](https://monix.io/)
