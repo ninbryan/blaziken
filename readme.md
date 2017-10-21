@@ -15,4 +15,5 @@ TODO
 
 - other scala solutions
   - [lagomframework](https://www.lagomframework.com/)
-  - [monix](https://monix.io/)
+
+- examples to work on
